@@ -9,11 +9,11 @@ I am a solution-oriented developer who specializes in bridging the gap between *
 ### 🚀 Featured Projects
 
 #### 🤖 AI Personal Tutor - IT Innovation Dept. @ CEU
-* **Context:** Developed during my internship to improve student engagement and tracking.
-* **The Problem:** Students needed a personalized way to track their academic progress and deadlines.
-* **The Solution:** Developed an AI Tutor that integrated with **Snowflake DB** to pull real-time student data (grades, submissions, attendance).
-* **Tech Stack:** OpenAI API, **Structured XML Prompting**, SQL, Python.
-* **Impact:** A conversational interface providing smart, data-driven academic recommendations.
+* **Context:** Developed during my internship to improve student engagement and academic tracking.
+* **The Problem:** Students needed a personalized, real-time way to track their academic trajectory and deadlines.
+* **The Solution:** An AI Tutor integrated with **Snowflake DB** for data extraction and deployed on **Azure**. Used **Docker** to containerize the solution and manage session persistence, allowing the tutor to have "memory" of previous interactions.
+* **Tech Stack:** OpenAI API, **Azure**, **Docker**, Structured XML Prompting, SQL, Python.
+* **Impact:** A scalable, conversational interface providing data-driven academic recommendations and progress tracking.
 
 #### 📍 Smart Location Alarms (Android)
 * **Concept:** A Flutter-based application that triggers alarms based on geographic location.
@@ -25,9 +25,9 @@ I am a solution-oriented developer who specializes in bridging the gap between *
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- **Cloud & DevOps:** ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - **Frontend/Mobile:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-- **AI & Automation:** OpenAI Ecosystem, Prompt Engineering (XML/JSON structured), Automation Workflows.
-- **Tools:** Git, Docker, Snowflake, TryHackMe (Currently exploring CyberSec Labs).
+- **AI & Automation:** OpenAI Ecosystem, Prompt Engineering (XML/JSON structured), Snowflake, Automation Workflows.
 
 ---
 
