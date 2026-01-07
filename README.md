@@ -33,7 +33,7 @@ I am a solution-oriented developer who specializes in bridging the gap between *
 
 ### 🧠 Currently Exploring
 - 🛡️ **Cybersecurity:** Training on **TryHackMe** to build secure-by-design software.
-- ⚡ **Advanced AI:** Pushing the limits of LLMs to create more autonomous and efficient agents.
+- ⚡ **Advanced AI:** Exploring the full potential of Artificial Intelligence to optimize processes, enhance efficiency, and build smarter solutions across all technological fields.
 - 🎓 Finalizing my **BSc (Hons) in Software Engineering** in the UK.
 
 ---
