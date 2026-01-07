@@ -2,17 +2,18 @@
 
 ### BSc (Hons) Software Engineering Student @ York St John University | CS Graduate (DAM) | AI & Solutions Developer
 
-I am a solution-oriented developer who specializes in bridging the gap between **complex data and efficient user experiences**. With a solid technical foundation from my Associate Degree (DAM) in Spain and my current **BEng (Hons)** studies in the UK, I focus on building **AI-driven solutions** that solve real-world problems.
+I am a solution-oriented developer who specializes in bridging the gap between **complex data and efficient user experiences**. With a solid technical foundation from my Associate Degree (DAM) and my internship at the **IT Innovation Department (CEU)**, followed by my current **BSc (Hons)** studies in the UK, I focus on building **AI-driven solutions** that solve real-world problems.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🤖 AI Personal Tutor for Higher Education (CEU)
+#### 🤖 AI Personal Tutor - IT Innovation Dept. @ CEU
+* **Context:** Developed during my internship to improve student engagement and tracking.
 * **The Problem:** Students needed a personalized way to track their academic progress and deadlines.
 * **The Solution:** Developed an AI Tutor that integrated with **Snowflake DB** to pull real-time student data (grades, submissions, attendance).
 * **Tech Stack:** OpenAI API, **Structured XML Prompting**, SQL, Python.
-* **Impact:** Created a conversational interface that provides smart recommendations based on the student's unique academic trajectory.
+* **Impact:** A conversational interface providing smart, data-driven academic recommendations.
 
 #### 📍 Smart Location Alarms (Android)
 * **Concept:** A Flutter-based application that triggers alarms based on geographic location.
@@ -46,12 +47,12 @@ I am a solution-oriented developer who specializes in bridging the gap between *
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[TU-USUARIO-AQUÍ]&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU-USUARIO-AQUÍ]&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=[ernesto2406]&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ernesto2406]&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario-linkedin) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ernesto-contreras-237bb71a4) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ercoal04@gmail.com)
