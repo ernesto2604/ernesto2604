@@ -45,14 +45,6 @@ I am a solution-oriented developer who specializes in bridging the gap between *
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ernesto2406&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernesto2406&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-contreras-237bb71a4) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ercoal04@gmail.com)
