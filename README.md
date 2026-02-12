@@ -1,8 +1,8 @@
 # Hi, I'm Ernesto 👋 
 
-### BSc (Hons) Software Engineering Student @ York St John University | CS Graduate (DAM) | AI & Solutions Developer
+### BSc (Hons) Software Engineering Student @ York St John University | CS Graduate (DAM) | AI & Secure Solutions Developer
 
-I am a solution-oriented developer specializing in bridging the gap between **complex data, robust backend logic, and efficient user experiences**. With a solid technical foundation from my Associate Degree (DAM) and my internship at the **IT Innovation Department (CEU)**, followed by my current **BSc (Hons)** studies in the UK, I focus on building **AI-driven software** to solve real-world challenges.
+I am a solution-oriented developer specializing in bridging the gap between **complex data, secure backend architectures, and efficient user experiences**. With a solid technical foundation from my Associate Degree (DAM) and my internship at the **IT Innovation Department (CEU)**, followed by my current **BSc (Hons)** studies in the UK, I focus on building **AI-driven and security-conscious software** to solve real-world challenges.
 
 ---
 
@@ -12,6 +12,12 @@ I am a solution-oriented developer specializing in bridging the gap between **co
 * **Software Focus:** Enterprise Architecture & Cloud Integration.
 * **The Solution:** An AI Tutor integrated with **Snowflake DB** for real-time academic data extraction. Deployed on **Azure** using **Docker** to manage containerization and session persistence (memory) for complex state management.
 * **Tech Stack:** OpenAI API, Azure, Docker, Python, SQL, Structured XML Prompting.
+
+#### 🔐 Secure Authentication System (Go + SQLite)
+* **Software Focus:** Backend Security & Secure Architecture.
+* **The Challenge:** Designed and hardened a web application implementing secure authentication, session management, and token expiration while protecting against common vulnerabilities.
+* **Security Highlights:** Secure password hashing (no plaintext storage), token-based authentication with expiration control, manual token invalidation testing, SQLite with WAL mode and foreign key enforcement, secure routing & authentication middleware.
+* **Tech Stack:** Go (Golang), SQLite, SQL, Secure Session Tokens, Authentication Middleware.
 
 #### 📍 Smart Location Alarms (Android)
 * **Software Focus:** Mobile Development & NLP Integration.
@@ -32,9 +38,10 @@ I am a solution-oriented developer specializing in bridging the gap between **co
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages & Backend:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- **Languages & Backend:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 - **Frontend & Web:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 - **Cloud & Specialized:** ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- **Security & Architecture:** Authentication Systems, Session Management, Secure Token Handling, Database Integrity, Secure-by-Design Development.
 - **AI Knowledge:** Edge AI, Multi-LLM Integration (OpenAI/Gemini), Snowflake, Prompt Engineering.
 
 ---
@@ -46,7 +53,8 @@ I am a solution-oriented developer specializing in bridging the gap between **co
 ---
 
 ### 🧠 Currently Exploring
-- 🛡️ **Cybersecurity:** Training on **TryHackMe** for secure-by-design development.
+- 🛡️ **Cybersecurity:** Training on **TryHackMe** and applying secure-by-design principles in backend systems.
+- 🔐 **Secure Backend Engineering:** Authentication flows, session hardening & vulnerability testing.
 - ⚡ **Advanced AI:** Optimizing processes and building smarter, model-agnostic solutions.
 
 ---
